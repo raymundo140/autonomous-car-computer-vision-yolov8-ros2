@@ -37,3 +37,6 @@ This project implements a 1:10-scale autonomous vehicle capable of navigating an
 - ✅ 95.1% F1-score in traffic light classification
 
 
+## 📽 Demo
+
+[Watch the demo video](https://youtu.be/NXRFa3HvvB4)
