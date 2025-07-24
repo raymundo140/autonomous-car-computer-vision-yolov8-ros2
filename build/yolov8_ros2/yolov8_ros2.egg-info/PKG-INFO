@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: yolov8_ros2
+Version: 0.0.0
+Summary: TODO: Package description
+Maintainer: rolix57
+Maintainer-email: rolix57@todo.todo
+License: Apache-2.0
+License-File: LICENSE
+Requires-Dist: setuptools

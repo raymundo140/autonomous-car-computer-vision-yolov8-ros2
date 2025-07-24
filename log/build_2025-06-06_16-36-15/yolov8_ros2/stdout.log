@@ -1,0 +1,37 @@
+running egg_info
+writing build/yolov8_ros2/yolov8_ros2.egg-info/PKG-INFO
+writing dependency_links to build/yolov8_ros2/yolov8_ros2.egg-info/dependency_links.txt
+writing entry points to build/yolov8_ros2/yolov8_ros2.egg-info/entry_points.txt
+writing requirements to build/yolov8_ros2/yolov8_ros2.egg-info/requires.txt
+writing top-level names to build/yolov8_ros2/yolov8_ros2.egg-info/top_level.txt
+reading manifest file 'build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file 'build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+running build
+running build_py
+copying yolov8_ros2/back-model-line.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/back-model-line-halfcolor.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/back-sm2.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/__init__.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/back-prefinal.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/back-sm1.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/yolov8_recognition.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/back-model-line-color-circle.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/line_pid.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+copying yolov8_ros2/backup.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+running install
+running install_lib
+copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-sm2.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/line_pid.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-sm2.py to back-sm2.cpython-310.pyc
+byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/line_pid.py to line_pid.cpython-310.pyc
+running install_data
+copying resource/yolov8_ros2 -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/ament_index/resource_index/packages
+copying package.xml -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/yolov8_ros2
+running install_egg_info
+removing '/home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/yolov8_ros2/yolov8_ros2.egg-info to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2-0.0.0-py3.10.egg-info
+running install_scripts
+Installing line_pid script to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/yolov8_ros2
+Installing yolov8_recognition script to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/yolov8_ros2
+writing list of installed files to '/home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/install.log'

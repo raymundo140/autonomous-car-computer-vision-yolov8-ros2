@@ -1,0 +1,3 @@
+[console_scripts]
+line_pid = yolov8_ros2.line_pid:main
+yolov8_recognition = yolov8_ros2.yolov8_recognition:main

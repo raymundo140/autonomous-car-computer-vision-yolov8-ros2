@@ -1,0 +1,63 @@
+[0.477s] Invoking command in '/home/goma/ros2_ws/src/yolov8_ros2': PYTHONPATH=/home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/yolov8_ros2 build --build-base /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build install --record /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/install.log --single-version-externally-managed install_data
+[0.614s] running egg_info
+[0.614s] creating build/yolov8_ros2/yolov8_ros2.egg-info
+[0.621s] writing build/yolov8_ros2/yolov8_ros2.egg-info/PKG-INFO
+[0.621s] writing dependency_links to build/yolov8_ros2/yolov8_ros2.egg-info/dependency_links.txt
+[0.621s] writing entry points to build/yolov8_ros2/yolov8_ros2.egg-info/entry_points.txt
+[0.621s] writing requirements to build/yolov8_ros2/yolov8_ros2.egg-info/requires.txt
+[0.621s] writing top-level names to build/yolov8_ros2/yolov8_ros2.egg-info/top_level.txt
+[0.622s] writing manifest file 'build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+[0.636s] reading manifest file 'build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+[0.636s] adding license file 'LICENSE'
+[0.636s] writing manifest file 'build/yolov8_ros2/yolov8_ros2.egg-info/SOURCES.txt'
+[0.636s] running build
+[0.636s] running build_py
+[0.636s] creating /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build
+[0.636s] creating /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib
+[0.637s] creating /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.637s] copying yolov8_ros2/back-model-line.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/back-model-line-halfcolor.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/back-sm2.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/__init__.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/back-prefinal.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/back-sm1.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/yolov8_recognition.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/back-model-line-color-circle.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/line_pid.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] copying yolov8_ros2/backup.py -> /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2
+[0.642s] running install
+[0.645s] running install_lib
+[0.653s] creating /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-model-line.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-model-line-halfcolor.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-sm2.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/__init__.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-prefinal.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-sm1.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/yolov8_recognition.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/back-model-line-color-circle.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/line_pid.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] copying /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build/lib/yolov8_ros2/backup.py -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2
+[0.653s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-model-line.py to back-model-line.cpython-310.pyc
+[0.654s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-model-line-halfcolor.py to back-model-line-halfcolor.cpython-310.pyc
+[0.655s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-sm2.py to back-sm2.cpython-310.pyc
+[0.657s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/__init__.py to __init__.cpython-310.pyc
+[0.657s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-prefinal.py to back-prefinal.cpython-310.pyc
+[0.658s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-sm1.py to back-sm1.cpython-310.pyc
+[0.659s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/yolov8_recognition.py to yolov8_recognition.cpython-310.pyc
+[0.659s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/back-model-line-color-circle.py to back-model-line-color-circle.cpython-310.pyc
+[0.660s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/line_pid.py to line_pid.cpython-310.pyc
+[0.662s] byte-compiling /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2/backup.py to backup.cpython-310.pyc
+[0.662s] running install_data
+[0.662s] creating /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/ament_index
+[0.662s] creating /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/ament_index/resource_index
+[0.662s] creating /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/ament_index/resource_index/packages
+[0.662s] copying resource/yolov8_ros2 -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/ament_index/resource_index/packages
+[0.662s] copying package.xml -> /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/share/yolov8_ros2
+[0.662s] running install_egg_info
+[0.670s] Copying build/yolov8_ros2/yolov8_ros2.egg-info to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages/yolov8_ros2-0.0.0-py3.10.egg-info
+[0.671s] running install_scripts
+[0.736s] Installing line_pid script to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/yolov8_ros2
+[0.736s] Installing yolov8_recognition script to /home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/yolov8_ros2
+[0.736s] writing list of installed files to '/home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/install.log'
+[0.750s] Invoked command in '/home/goma/ros2_ws/src/yolov8_ros2' returned '0': PYTHONPATH=/home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/goma/ros2_ws/src/yolov8_ros2/install/yolov8_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/yolov8_ros2 build --build-base /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/build install --record /home/goma/ros2_ws/src/yolov8_ros2/build/yolov8_ros2/install.log --single-version-externally-managed install_data
